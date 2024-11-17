@@ -13,6 +13,7 @@ Deplolyed App
 
 
 Directory Structure
+
 my-dashboard-app/Green Algorithms-038
 ├─ data/
 ├─ main.py
